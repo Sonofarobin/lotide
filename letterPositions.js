@@ -31,7 +31,7 @@ const eqArrays = function (A,B){
 
     return results;
   }
-
-  assertArraysEqual(letterPositions("hello").e,[1]);
-
+ let someobject = letterPositions("hello");
+ console.log(someobject);
+  assertArraysEqual(letterPositions("hello")["e"],[1]);
  // assertArraysEqual("hello", "hello");
