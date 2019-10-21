@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@sonofarobin/lotide",
   "version": "1.0.0",
-  "description": "Small, personal ripoff of Lodash",
+  "description": "Small person ripoff of Lodash",
   "main": "CountOnly.js",
   "directories": {
     "test": "test"
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/Sonofarobin/lotide.git"
   },
-  "author": "",
+  "author": "Zanth Robinson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sonofarobin/lotide/issues"

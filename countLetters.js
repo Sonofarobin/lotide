@@ -11,6 +11,5 @@ const countLetters = function(phrase) {
   return results;
 }
 
-const testPhrase = "lighthouse in the house of the rising sun";
+module.exports = countLetters;
 
-console.log(countLetters(testPhrase));
