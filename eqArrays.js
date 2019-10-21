@@ -9,3 +9,5 @@ const eqArrays = function (A,B){
   }
   return true;
 }
+
+module.exports = eqArrays;
